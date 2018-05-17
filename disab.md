@@ -1,4 +1,5 @@
-Header file | Full support | Support in OpenEnclave | :---:|:--:|:---:|
+Header file | Full support | Support in OpenEnclave 
+| :---:|:--:|:---:|
 asn1write.h | | |
 base64.h | | |
 bignum.h | | |
